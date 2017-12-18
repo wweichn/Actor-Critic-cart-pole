@@ -1,9 +1,9 @@
 # A3C
 cart-pole by Asynchronous Advantage Actor-Critic (A3C)
 ---
-Implemented by Tensorflow and python
-Actor network：
-output actions according to log_softmax
-updated according to advantages
-Critic network:
-updated by reward(MSE)
+Implemented by Tensorflow and python <br>
+Actor network：<br>
+output actions according to log_softmax <br>
+updated according to advantages <br>
+Critic network:<br>
+updated by reward(MSE) <br>
