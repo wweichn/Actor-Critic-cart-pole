@@ -1,5 +1,5 @@
 # A2C
-cart-pole by Asynchronous Advantage Actor-Critic (A3C)
+cart-pole by Asynchronous Advantage Actor-Critic (A2C)
 ---
 Implemented by Tensorflow and python <br>
 Actor network：<br>
